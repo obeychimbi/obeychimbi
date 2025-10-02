@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @obeychimbi
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning data science 
+- 🌱 I’m a certified Data Scientist, (MSU)
 - 💞️ I’m looking to collaborate on python programming
 - 📫 How to reach me ,you reach me on my email
-- 😄 Pronouns: OCEESTALAVISTAH
+- 😄 Pronouns: OCEE'
 - ⚡ Fun fact: A Lion never fears to walk alone
 
 <!---
